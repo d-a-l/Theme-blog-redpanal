@@ -11,7 +11,7 @@ Tags: white, light, blue, one-column, two-columns, three-columns, left-sidebar, 
 
 
 
-== Installacion ==
+== Instalaciòn ==
 
 Manual:
 
